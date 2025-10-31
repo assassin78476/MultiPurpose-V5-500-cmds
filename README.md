@@ -1,3 +1,10 @@
+![License: A-NCRL v1.0](https://img.shields.io/badge/License-A--NCRL%20v1.0-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
+
+> 🛡️ This project is protected under the **Arcane Non-Commercial Restricted License (A-NCRL v1.0)**.  
+> You may modify and host this project for **non-commercial use only** with proper credit to **assassin78476** and the oroginal creators: **PHV Dev and Tomato6966**  
+> Redistribution or commercial usage without permission is strictly forbidden.
+
+
 
 # IMPORTANT Notice!!
 SENTINEL DEVELOPEMENT- We've only updated/modified parts of this code and added few commands, this bot is originally made by [Tomato6966](https://github.com/Tomato6966/Multipurpose-discord-bot). So Credits go to him.
