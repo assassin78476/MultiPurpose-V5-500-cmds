@@ -1,5 +1,10 @@
 ![License: A-NCRL v1.0](https://img.shields.io/badge/License-A--NCRL%20v1.0-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
 
+  <a href="https://discord.gg/a7r25Cz2UD">
+    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
+      alt="Join Discord" />
+  </a>
+
 > 🛡️ This project is protected under the **Arcane Non-Commercial Restricted License (A-NCRL v1.0)**.  
 > You may modify and host this project for **non-commercial use only** with proper credit to **assassin78476** and the oroginal creators: **PHV Dev and Tomato6966**  
 > Redistribution or commercial usage without permission is strictly forbidden.
