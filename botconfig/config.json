@@ -1,0 +1,38 @@
+{
+   "prefix": "s!",
+   "ownerIDS": [
+      "1222599088126689292"
+   ],
+   "bannermusic": "",
+   "memer_api": "",
+   "status": {
+      "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members",
+      "text2": "By: Sentinel Developement",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/assassin78476"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "pnode1.danbot.host",
+            "port": 1351,
+            "password": "cocaine"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "bc749353da0e428982a668ea2e20f164",
+      "clientID": "f4ca5ac9b76d4e66ba4885c93c53c2cc"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
