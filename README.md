@@ -6,8 +6,8 @@ SENTINEL DEVELOPEMENT- We've only updated/modified parts of this code and added 
 
 ## As of February 2025, We confirm that this Current Code is Really Unstable for a Long term use, Most of the Commands/Modules Do not work Actively, We're Currently Seeking Help from Developers to Update this entire project to discord.js V14, If you want to Contribute Create a Pull Request.
 
-### PHV DEVELOPMENT - We've only updated/modified parts of this code and added few commands, this bot is originally made by [Tomato6966](https://github.com/Tomato6966/Multipurpose-discord-bot). So Credits go to him.
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
+###Sentinel DEVELOPMENT - We've only updated/modified parts of this code and added few commands, this bot is originally made by [Tomato6966](https://github.com/Tomato6966/Multipurpose-discord-bot). So Credits go to him.
+
 
 Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r25Cz2UD).
 
@@ -15,7 +15,7 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 
 =======
  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
+
 [**Invite the Public Version of this Bot**](https://discord.com/oauth2/authorize?client_id=1165909952037126186&permissions=103347652792&scope=bot%20applications.commands)
 
 
