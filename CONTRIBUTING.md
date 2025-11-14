@@ -8,7 +8,7 @@ Please read this guide carefully before submitting any issues, pull requests, or
 ---
 
 ## 1. Code of Conduct
-By contributing, you agree to follow the [Code of Conduct](https://github.com/assassin78476/MultiPurpose-V5-500-cmdsCODE_OF_CONDUCT.md).  
+By contributing, you agree to follow the [Code of Conduct](https://github.com/assassin78476/MultiPurpose-V5-500-cmds/CODE_OF_CONDUCT.md).  
 Respect, professionalism, and integrity are mandatory in all contributions and interactions.
 
 ---
